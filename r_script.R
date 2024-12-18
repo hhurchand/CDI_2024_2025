@@ -1,5 +1,5 @@
 # Name: Haroon Date: 10 Dec 2024
-mydata <- read.csv("C:/Users/hhurchand/Downloads/iris.csv")
+mydata <- read.csv("C:/Users/Owner/GITPROJECTS/iris.csv")
 
 # DATA CLEANING AND TRANSFORMATIONS
 # na.omit(), na.rm(), str_replace() and str_time()
