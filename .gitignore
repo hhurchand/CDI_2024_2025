@@ -134,6 +134,8 @@ env/
 venv/
 ENV/
 env_py13/
+env_py12/
+env_py11/
 env.bak/
 venv.bak/
 
