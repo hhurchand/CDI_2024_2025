@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\desk\\Documents\\Artificial Intelligence Specialist - LEA.E3\\GIT_projects\\CDI_2024_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\desk\\Documents\\Artificial Intelligence Specialist - LEA.E3\\GIT_projects\\CDI_2024_2025\\PYTHON_FOLDER\\src\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PYTHON_FOLDER\\src\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\desk\\Documents\\Artificial Intelligence Specialist - LEA.E3\\GIT_projects\\CDI_2024_2025\\PYTHON_FOLDER\\src\\helper_files\\helper_functions.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PYTHON_FOLDER\\src\\helper_files\\helper_functions.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "helper_functions.py",
+              "DocumentMoniker": "D:\\Users\\desk\\Documents\\Artificial Intelligence Specialist - LEA.E3\\GIT_projects\\CDI_2024_2025\\PYTHON_FOLDER\\src\\helper_files\\helper_functions.py",
+              "RelativeDocumentMoniker": "PYTHON_FOLDER\\src\\helper_files\\helper_functions.py",
+              "ToolTip": "D:\\Users\\desk\\Documents\\Artificial Intelligence Specialist - LEA.E3\\GIT_projects\\CDI_2024_2025\\PYTHON_FOLDER\\src\\helper_files\\helper_functions.py",
+              "RelativeToolTip": "PYTHON_FOLDER\\src\\helper_files\\helper_functions.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-01-30T03:04:58.83Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "D:\\Users\\desk\\Documents\\Artificial Intelligence Specialist - LEA.E3\\GIT_projects\\CDI_2024_2025\\PYTHON_FOLDER\\src\\main.py",
+              "RelativeDocumentMoniker": "PYTHON_FOLDER\\src\\main.py",
+              "ToolTip": "D:\\Users\\desk\\Documents\\Artificial Intelligence Specialist - LEA.E3\\GIT_projects\\CDI_2024_2025\\PYTHON_FOLDER\\src\\main.py",
+              "RelativeToolTip": "PYTHON_FOLDER\\src\\main.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-01-30T02:23:51.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
